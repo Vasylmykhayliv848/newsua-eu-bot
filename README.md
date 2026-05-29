@@ -1,12 +1,13 @@
 <img width="1897" height="957" alt="image" src="https://github.com/user-attachments/assets/7b674e69-f2c0-4458-8652-9336c216e84c" />
 
-Telegram Bot for AI, Technology and European News Updates.
+Telegram Bot delivering Ukrainian, European, AI and Technology News.
 
 ## 🚀 Features
 
-- Latest AI news
-- Technology updates
+- Ukrainian news updates
 - European news monitoring
+- Artificial Intelligence news
+- Technology updates
 - Automatic news delivery
 - Source links included
 - Telegram integration
@@ -16,19 +17,19 @@ Telegram Bot for AI, Technology and European News Updates.
 - Python
 - Telegram Bot API
 - News Automation
-- RSS & Web Sources
+- RSS Feeds
 
-## 📢 Content
+## 📢 Content Categories
 
-- Artificial Intelligence
-- Technology
-- Innovation
-- European News
-- Business & Startups
+- 🇺🇦 Ukrainian News
+- 🇪🇺 European News
+- 🤖 AI News
+- 💻 Technology
+- 🚀 Innovation
 
 ## 📈 Status
 
-🟢 Online
+🟢 Online Development
 
 ---
 Created by Vasylmykhayliv848
